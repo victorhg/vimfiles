@@ -37,5 +37,11 @@ set gfn=Monospace\ 13									" forces gVim to use this font
 
 call pathogen#infect()								" initializes pathogen to manage plugins
 
+" NERDTree
 silent! nmap <silent> <Leader>p :NERDTreeToggle<CR>			" map nerdtree
 let NERDTreeChDirMode=1								" change currentDir to one related to the one opened by nerdtree
+
+"Command-T configuration                                                                                                                                  
+let g:CommandTMaxHeight=10
+let g:CommandTMatchWindowAtTop=1
+">> nnoremap <leader>t :CommandT<CR>  "map to CommandT TextMate style finder 

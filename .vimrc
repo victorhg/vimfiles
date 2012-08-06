@@ -77,3 +77,14 @@ hi User7 guifg=#ffffff  guibg=#880c0e gui=bold
 hi User8 guifg=#ffffff  guibg=#5b7fbb
 hi User9 guifg=#ffffff  guibg=#810085
 hi User0 guifg=#ffffff  guibg=#094afe
+
+
+
+
+"""""""RSPEC Running Conque
+" Cmd-Shift-R for RSpec
+nmap <silent> <D-R> :call RunRspecCurrentFileConque()<CR>
+" " Cmd-Shift-L for RSpec Current Line
+nmap <silent> <D-L> :call RunRspecCurrentLineConque()<CR>
+" " ,Cmd-R for Last conque command
+nmap <silent> ,<D-R> :call RunLastConqueCommand()<CR>

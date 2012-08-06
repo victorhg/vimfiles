@@ -24,7 +24,7 @@ set cursorline												" display a marker on current line
 colorscheme railscasts								" set colorscheme
 
 set wildignore+=*.o,*.obj,.git,*.class									" ignore files 
-set completeopt=menuone,longest				" simple autocomplete for anything
+set completeopt=menuone,menu,longest,preview				" simple autocomplete for anything
 set wildmode=list:longest,full				" autocomplete for paths and files
 
 set hidden														" change buffers without warnings even when there are unsaved changes

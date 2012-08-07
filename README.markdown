@@ -1,4 +1,5 @@
-Victorhg's vimfiles,  
+Victorhg's vimfiles
+======
 
 After a few months working on a full of plugins and snippets vim instalation, it's time to start over :)
 
@@ -6,6 +7,7 @@ Nothing better than use files from @rafaelrosafu KISS installation.
 
 
 Install
+------
 
 Run command:
 
@@ -16,8 +18,10 @@ Run command:
 
 
 
+License
+------
 
-
+```
 =============================
 http://sam.zoy.org/wtfpl/
 
@@ -36,4 +40,4 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
   0. You just DO WHAT THE FUCK YOU WANT TO. 
 
-
+```

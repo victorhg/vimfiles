@@ -5,6 +5,16 @@ After a few months working on a full of plugins and snippets vim instalation, it
 Nothing better than use files from @rafaelrosafu KISS installation.
 
 
+Install
+
+Run command:
+
+1) <code>$> git clone https://github.com/victorhg/vimfiles.git ~/.vim</code> 
+
+2) <code>$> echo "source ~/.vim/.vimrc" > .vimrc </code>
+
+
+
 
 
 

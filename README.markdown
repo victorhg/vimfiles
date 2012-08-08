@@ -15,6 +15,7 @@ Run command:
 
 2) <code>$> echo "source ~/.vim/.vimrc" > .vimrc </code>
 
+3) <code>$> cd ~/.vim ; git submodule init ; git submodule update </code>
 
 
 

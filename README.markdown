@@ -17,6 +17,32 @@ Run command:
 
 3) <code>$> cd ~/.vim ; git submodule init ; git submodule update </code>
 
+What to find here?
+------
+
+### NERDTree
+File Browsing: 
+http://www.vim.org/scripts/script.php?script_id=1658
+
+### Git-vim
+Git integration:
+https://github.com/motemen/git-vim
+
+### Ctrlp
+Fuzzy file finding:
+https://github.com/kien/ctrlp.vim
+
+### Ruby-vim-conque
+Ruby plugin for output rspec/rake/ruby commands:
+https://github.com/skwp/vim-ruby-conque
+
+### Rails-vim
+Rails integration:
+https://github.com/tpope/vim-rails
+
+### Coffeescript-vim
+Coffeescript support:
+https://github.com/kchmck/vim-coffee-script
 
 
 License

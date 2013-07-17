@@ -22,9 +22,6 @@
 [submodule "bundle/ruby"]
 	path = bundle/ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
-[submodule "bundle/vim-conque"]
-	path = bundle/vim-conque
-	url = https://github.com/rson/vim-conque.git
 [submodule "bundle/vim-ruby-conque"]
 	path = bundle/vim-ruby-conque
 	url = https://github.com/skwp/vim-ruby-conque.git

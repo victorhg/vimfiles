@@ -83,3 +83,8 @@ nmap <silent> <D-R> :call RunRspecCurrentFileConque()<CR>
 nmap <silent> <D-L> :call RunRspecCurrentLineConque()<CR>
 " " ,Cmd-R for Last conque command
 nmap <silent> ,<D-R> :call RunLastConqueCommand()<CR>
+
+
+""""""GROOVY
+ au BufNewFile,BufRead *.groovy  setf groovy 
+ au BufNewFile,BufRead *.gradle  setf groovy 

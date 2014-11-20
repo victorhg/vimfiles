@@ -31,6 +31,6 @@
 [submodule "bundle/vim-conque"]
 	path = bundle/vim-conque
 	url = https://github.com/basepi/vim-conque.git
-[submodule "bundle/bundle/vim-jade"]
-	path = bundle/bundle/vim-jade
+[submodule "bundle/vim-jade"]
+	path = bundle/vim-jade
 	url = git://github.com/digitaltoad/vim-jade.git
